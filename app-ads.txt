@@ -129,6 +129,7 @@ pubmatic.com,156344,RESELLER,5d62403b186f2ace
 indexexchange.com,184738,RESELLER
 
 facebook.com, 931795114390114, RESELLER, c3e20eee3f780d68
+facebook.com, 251459527125280, RESELLER, c3e20eee3f780d68
 
 mintegral.com, 28013, DIRECT, 0aeed750c80d6423
 //Other dsp partners reseller
